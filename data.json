@@ -1,75 +1,69 @@
 {
  "countries": [
   {
-   "count": 22052,
+   "count": 22079,
    "lat": 50.974,
    "lon": 2.143,
    "name": "France"
   },
   {
-   "count": 17294,
+   "count": 17301,
    "lat": 45.315,
    "lon": -73.907,
    "name": "Canada"
   },
   {
-   "count": 11006,
-   "lat": 40.774,
-   "lon": -86.284,
+   "count": 10996,
+   "lat": 40.778,
+   "lon": -86.302,
    "name": "United States"
   },
   {
-   "count": 3702,
+   "count": 3713,
    "lat": 52.184,
-   "lon": 5.052,
+   "lon": 5.051,
    "name": "The Netherlands"
   },
   {
    "count": 2514,
-   "lat": 34.394,
-   "lon": 117.816,
+   "lat": 34.392,
+   "lon": 117.817,
    "name": "China"
   },
   {
-   "count": 947,
+   "count": 941,
    "lat": 51.516,
    "lon": -0.112,
    "name": "United Kingdom"
   },
   {
-   "count": 835,
-   "lat": 50.508,
-   "lon": 9.704,
+   "count": 836,
+   "lat": 50.506,
+   "lon": 9.706,
    "name": "Germany"
   },
   {
-   "count": 613,
+   "count": 601,
    "lat": 42.696,
    "lon": 23.332,
    "name": "Bulgaria"
   },
   {
-   "count": 303,
-   "lat": 1.351,
-   "lon": 103.801,
-   "name": "Singapore"
-  },
-  {
-   "count": 289,
+   "count": 287,
    "lat": 22.274,
    "lon": 114.171,
    "name": "Hong Kong"
   },
   {
-   "count": 241,
+   "count": 237,
    "lat": 47.42,
    "lon": 8.53,
    "name": "Switzerland"
   },
   {
-   "count": 184,
-   "lat": -23.815,
-   "lon": -47.918,
+   "count": 182,
+   "lat": -23.819,
+   "lon": -47.932,
    "name": "Brazil"
   },
   {
@@ -85,9 +79,15 @@
    "name": "Seychelles"
   },
   {
-   "count": 110,
+   "count": 116,
+   "lat": 1.326,
+   "lon": 103.802,
+   "name": "Singapore"
+  },
+  {
+   "count": 109,
    "lat": 35.663,
-   "lon": 139.591,
+   "lon": 139.59,
    "name": "Japan"
   },
   {
@@ -97,9 +97,9 @@
    "name": "Russia"
   },
   {
-   "count": 92,
-   "lat": 37.356,
-   "lon": 127.119,
+   "count": 90,
+   "lat": 37.379,
+   "lon": 127.118,
    "name": "South Korea"
   },
   {
@@ -115,7 +115,7 @@
    "name": "T\u00fcrkiye"
   },
   {
-   "count": 66,
+   "count": 65,
    "lat": 45.997,
    "lon": 24.997,
    "name": "Romania"
@@ -139,7 +139,7 @@
    "name": "Ukraine"
   },
   {
-   "count": 53,
+   "count": 52,
    "lat": 37.95,
    "lon": 58.383,
    "name": "Turkmenistan"
@@ -151,21 +151,21 @@
    "name": "Malaysia"
   },
   {
-   "count": 43,
-   "lat": 24.531,
-   "lon": 121.225,
-   "name": "Taiwan"
-  },
-  {
-   "count": 43,
+   "count": 44,
    "lat": 38.706,
    "lon": -9.136,
    "name": "Portugal"
   },
   {
-   "count": 33,
-   "lat": 23.951,
-   "lon": 54.621,
+   "count": 42,
+   "lat": 24.518,
+   "lon": 121.218,
+   "name": "Taiwan"
+  },
+  {
+   "count": 32,
+   "lat": 23.957,
+   "lon": 54.625,
    "name": "United Arab Emirates"
   },
   {
@@ -181,9 +181,9 @@
    "name": "Vietnam"
   },
   {
-   "count": 31,
+   "count": 30,
    "lat": 35.713,
-   "lon": 51.65,
+   "lon": 51.658,
    "name": "Iran"
   },
   {
@@ -217,6 +217,12 @@
    "name": "Panama"
   },
   {
+   "count": 20,
+   "lat": 59.251,
+   "lon": 10.299,
+   "name": "Norway"
+  },
+  {
    "count": 19,
    "lat": 13.716,
    "lon": 100.518,
@@ -229,15 +235,9 @@
    "name": "Poland"
   },
   {
-   "count": 18,
-   "lat": 59.264,
-   "lon": 10.307,
-   "name": "Norway"
-  },
-  {
-   "count": 15,
-   "lat": 60.231,
-   "lon": 25.152,
+   "count": 14,
+   "lat": 60.236,
+   "lon": 25.167,
    "name": "Finland"
   },
   {
@@ -543,179 +543,179 @@
  ],
  "feed": [
   {
-   "country": "France",
-   "ip": "85.217.140.25",
-   "port": 3852,
+   "country": "United States",
+   "ip": "20.83.60.145",
+   "port": 5631,
    "proto": "TCP",
-   "ts": 1792605286
-  },
-  {
-   "country": "The Netherlands",
-   "ip": "31.14.32.7",
-   "port": 42583,
-   "proto": "TCP",
-   "ts": 1792605286
+   "ts": 1792606186
   },
   {
    "country": "United States",
    "ip": "172.245.187.127",
    "port": 21027,
    "proto": "UDP",
-   "ts": 1792605286
+   "ts": 1792606186
   },
   {
-   "country": "United States",
-   "ip": "91.230.168.235",
-   "port": 3732,
+   "country": "Romania",
+   "ip": "80.94.95.109",
+   "port": 22,
    "proto": "TCP",
-   "ts": 1792605286
+   "ts": 1792606186
   },
   {
-   "country": "Canada",
-   "ip": "85.217.149.61",
-   "port": 65033,
+   "country": "Bulgaria",
+   "ip": "78.128.112.6",
+   "port": 34605,
    "proto": "TCP",
-   "ts": 1792605286
+   "ts": 1792606186
   },
   {
-   "country": "United States",
-   "ip": "23.92.26.77",
-   "port": 7835,
+   "country": "Iran",
+   "ip": "62.60.130.148",
+   "port": 22,
    "proto": "TCP",
-   "ts": 1792605286
-  },
-  {
-   "country": "Canada",
-   "ip": "85.217.149.26",
-   "port": 60507,
-   "proto": "TCP",
-   "ts": 1792605286
-  },
-  {
-   "country": "Canada",
-   "ip": "85.217.149.70",
-   "port": 38051,
-   "proto": "TCP",
-   "ts": 1792605286
+   "ts": 1792606186
   },
   {
    "country": "Germany",
-   "ip": "45.135.193.193",
-   "port": 8080,
+   "ip": "69.5.169.247",
+   "port": 18371,
    "proto": "TCP",
-   "ts": 1792605286
+   "ts": 1792606186
   },
   {
-   "country": "France",
-   "ip": "85.217.140.30",
-   "port": 6486,
+   "country": "Poland",
+   "ip": "95.214.53.157",
+   "port": 4145,
    "proto": "TCP",
-   "ts": 1792605286
+   "ts": 1792606186
+  },
+  {
+   "country": "United States",
+   "ip": "108.165.95.17",
+   "port": 80,
+   "proto": "TCP",
+   "ts": 1792606186
   },
   {
    "country": "United States",
    "ip": "172.245.187.193",
    "port": 21027,
    "proto": "UDP",
-   "ts": 1792605286
-  },
-  {
-   "country": "Canada",
-   "ip": "85.217.149.70",
-   "port": 60338,
-   "proto": "TCP",
-   "ts": 1792605286
-  },
-  {
-   "country": "Canada",
-   "ip": "85.217.149.26",
-   "port": 33678,
-   "proto": "TCP",
-   "ts": 1792605286
+   "ts": 1792606186
   },
   {
    "country": "United States",
-   "ip": "91.230.168.8",
-   "port": 9021,
+   "ip": "172.237.136.213",
+   "port": 8081,
    "proto": "TCP",
-   "ts": 1792605286
+   "ts": 1792606186
+  },
+  {
+   "country": "United States",
+   "ip": "192.161.49.2",
+   "port": 84,
+   "proto": "TCP",
+   "ts": 1792606186
   },
   {
    "country": "United States",
    "ip": "172.245.187.127",
    "port": 21027,
    "proto": "UDP",
-   "ts": 1792605286
+   "ts": 1792606186
+  },
+  {
+   "country": "Singapore",
+   "ip": "118.194.235.16",
+   "port": 48299,
+   "proto": "TCP",
+   "ts": 1792606186
+  },
+  {
+   "country": "United States",
+   "ip": "172.245.187.193",
+   "port": 21027,
+   "proto": "UDP",
+   "ts": 1792606186
+  },
+  {
+   "country": "United States",
+   "ip": "143.42.1.191",
+   "port": 8000,
+   "proto": "TCP",
+   "ts": 1792606186
+  },
+  {
+   "country": "Bulgaria",
+   "ip": "79.124.56.110",
+   "port": 6443,
+   "proto": "TCP",
+   "ts": 1792606186
+  },
+  {
+   "country": "United States",
+   "ip": "172.245.187.127",
+   "port": 21027,
+   "proto": "UDP",
+   "ts": 1792606186
+  },
+  {
+   "country": "Seychelles",
+   "ip": "45.87.249.146",
+   "port": 9616,
+   "proto": "TCP",
+   "ts": 1792606186
+  },
+  {
+   "country": "China",
+   "ip": "175.10.25.168",
+   "port": 23,
+   "proto": "TCP",
+   "ts": 1792606186
+  },
+  {
+   "country": "United States",
+   "ip": "45.79.145.233",
+   "port": 8888,
+   "proto": "TCP",
+   "ts": 1792606186
+  },
+  {
+   "country": "United States",
+   "ip": "45.198.224.20",
+   "port": 8181,
+   "proto": "TCP",
+   "ts": 1792606186
+  },
+  {
+   "country": "United States",
+   "ip": "172.245.187.193",
+   "port": 21027,
+   "proto": "UDP",
+   "ts": 1792606186
+  },
+  {
+   "country": "United States",
+   "ip": "172.245.187.127",
+   "port": 21027,
+   "proto": "UDP",
+   "ts": 1792606186
+  },
+  {
+   "country": "United States",
+   "ip": "172.245.187.193",
+   "port": 21027,
+   "proto": "UDP",
+   "ts": 1792606186
   },
   {
    "country": "The Netherlands",
    "ip": "204.76.203.4",
-   "port": 8645,
+   "port": 59953,
    "proto": "TCP",
-   "ts": 1792605286
-  },
-  {
-   "country": "Canada",
-   "ip": "85.217.149.36",
-   "port": 42104,
-   "proto": "TCP",
-   "ts": 1792605286
-  },
-  {
-   "country": "The Netherlands",
-   "ip": "31.14.32.7",
-   "port": 4024,
-   "proto": "TCP",
-   "ts": 1792605286
-  },
-  {
-   "country": "United States",
-   "ip": "66.132.186.213",
-   "port": 4443,
-   "proto": "TCP",
-   "ts": 1792605286
-  },
-  {
-   "country": "United States",
-   "ip": "172.245.187.193",
-   "port": 21027,
-   "proto": "UDP",
-   "ts": 1792605286
-  },
-  {
-   "country": "Canada",
-   "ip": "85.217.149.39",
-   "port": 7836,
-   "proto": "TCP",
-   "ts": 1792605286
-  },
-  {
-   "country": "United States",
-   "ip": "172.245.187.127",
-   "port": 21027,
-   "proto": "UDP",
-   "ts": 1792605286
-  },
-  {
-   "country": "Canada",
-   "ip": "85.217.149.56",
-   "port": 53868,
-   "proto": "TCP",
-   "ts": 1792605286
-  },
-  {
-   "country": "France",
-   "ip": "85.217.140.22",
-   "port": 21724,
-   "proto": "TCP",
-   "ts": 1792605286
-  },
-  {
-   "country": "France",
-   "ip": "85.217.140.26",
-   "port": 63442,
-   "proto": "TCP",
-   "ts": 1792605286
+   "ts": 1792606186
   }
  ],
  "top_ports": [
@@ -724,15 +724,15 @@
    "port": 21027
   },
   {
-   "count": 416,
+   "count": 412,
    "port": 23
   },
   {
-   "count": 354,
+   "count": 353,
    "port": 2222
   },
   {
-   "count": 298,
+   "count": 299,
    "port": 22
   },
   {
@@ -740,11 +740,11 @@
    "port": 138
   },
   {
-   "count": 171,
+   "count": 167,
    "port": 443
   },
   {
-   "count": 142,
+   "count": 141,
    "port": 80
   },
   {
@@ -756,11 +756,11 @@
    "port": 8080
   },
   {
-   "count": 88,
+   "count": 91,
    "port": 25565
   },
   {
-   "count": 73,
+   "count": 74,
    "port": 445
   },
   {
@@ -768,7 +768,7 @@
    "port": 8443
   }
  ],
- "total_24h": 61722,
- "unique_ips_24h": 4865,
- "updated": 1792605000
+ "total_24h": 61507,
+ "unique_ips_24h": 4846,
+ "updated": 1792605900
 }
